@@ -1,0 +1,194 @@
+GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR	production	EGF-like ligands:p-6Y-EGFR:p-Y349,350-SHC1:GRB2:SOS1
+SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)	production	GDP
+CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85	production	EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP
+GRB2-1 binds SOS1	production	GRB2-1:SOS1
+H2O	consumption	Dephosphorylation of Gab1 by SHP2
+GRB2:GAB1 binds to phosphorylated EGFR	production	EGF-like ligands:p-6Y-EGFR:GRB2:GAB1
+EGFR phosphorylates EPS15	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:p-EPS15:HGS:STAM
+SHC1	consumption	SHC1 binds to the phosphorylated EGF receptor:ligand complex
+EGF-like ligands:EGFR dimer	consumption	EGFR autophosphorylation
+SPRY1/2	consumption	CBL binds and ubiquitinates phosphorylated Sprouty
+CBL	consumption	Sprouty lures CBL away from EGFR
+EGF-like ligands:p-6Y EGFR dimer	consumption	Phospholipase C-gamma1 binds to the activated EGF receptor
+Dephosphorylation of PAG by SHP2	production	Pi
+Beta-Pix:CDC42:GTP	consumption	CDC42:GTP binds CBL:Beta-Pix
+SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)	production	p21 RAS:GTP
+SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)	production	p21 RAS:GTP
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	catalysis	Dephosphorylation of Gab1 by SHP2
+EPS15:HGS:STAM	consumption	EGFR non-clathrin mediated endocytosis
+Ub	consumption	CBL ubiquitinates Sprouty
+PI(4,5)P2	consumption	PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)
+EGF-like ligands:p-6Y-EGFR:CBL	consumption	Phosphorylation of CBL (EGFR:CBL)
+EGF-like ligands:p-6Y-EGFR:PLCG1	consumption	EGFR activates PLC-gamma1 by phosphorylation
+EGF:p-6Y-EGFR dimer	consumption	PTPN12 dephosphorylates EGFR at Y1148 (Y1172)
+EGF-like ligands:p-6Y EGFR dimer	consumption	GRB2:GAB1 binds to phosphorylated EGFR
+Phosphorylation of EGFR by SRC kinase	production	ADP
+PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)	production	ADP
+EGF-like ligands:p-6Y-EGFR:GRB2:SOS1	catalysis	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)
+EGFR autophosphorylation	production	ADP
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL	catalysis	Ubiquitination of stimulated EGFR (CBL)
+Dephosphorylation of PAG by SHP2	production	PAG1
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1	consumption	PI3K binds to EGF:EGFR:GRB2:GAB1
+Phosphorylation of EGFR by SRC kinase	production	EGF-like ligands:p-6Y EGFR dimer
+CBL	consumption	CDC42:GTP binds CBL:Beta-Pix
+ATP	consumption	EGFR activates PLC-gamma1 by phosphorylation
+ATP	consumption	Phosphorylation of CBL (EGFR:GRB2:CBL)
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:p-EPS15:HGS:STAM	consumption	PTPN3 dephosphorylates EPS15
+Active PLC-gamma1 dissociates from EGFR	production	EGF-like ligands:p-6Y EGFR dimer
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	consumption	SHP2 dephosphorylates Tyr 992 on EGFR
+H2O	consumption	PTPN3 dephosphorylates EPS15
+Ubiquitination of stimulated EGFR (CBL:GRB2)	production	EGF-like ligands:Ub-p-6Y-EGFR:p-Y371-CBL:GRB2
+Activation of SHP2 through the binding to phospho-Gab1	production	EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2
+Phosphorylation of CBL (EGFR:GRB2:CBL)	production	ADP
+EGFR activates PLC-gamma1 by phosphorylation	production	ADP
+p-Y55-SPRY2	consumption	Sprouty lures CBL away from EGFR
+SHC1 phosphorylation by phosphorylated EGFR	production	ADP
+p21 RAS:GDP	consumption	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)
+SHP2 dephosphorylates Tyr 992 on EGFR	production	EGF-like ligands:p-5Y-EGFR:GRB2:p-5Y-GAB1:SHP2
+CIN85:endophilin	consumption	EGFR non-clathrin mediated endocytosis
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin	consumption	Beta-Pix:CDC42:GTP binds CBL in EGF:p-6Y-EGFR:CBL:CIN85
+EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP	consumption	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix
+PI3K binds to EGF:EGFR:GRB2:GAB1	production	EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:PI3K
+Phospholipase C-gamma1 binds to the activated EGF receptor	production	EGF-like ligands:p-6Y-EGFR:PLCG1
+Assembly of EGFR complex in clathrin-coated vesicles	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin
+Ub	consumption	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix
+PTPN3	catalysis	PTPN3 dephosphorylates EPS15
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2	catalysis	Ubiquitination of stimulated EGFR (CBL:GRB2)
+EGFR	consumption	EGFR binds EGF ligand
+GTP	consumption	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)
+PTPN12 dephosphorylates EGFR at Y1148 (Y1172)	production	Pi
+EGFR:EGF-like ligands	consumption	EGFR dimerization
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	catalysis	Sustained activation of SRC kinase by SHP2
+ATP	consumption	EGFR autophosphorylation
+GRB2:GAB1,GRB2:GAB1:PIP3	consumption	GRB2:GAB1 binds to phosphorylated EGFR
+Binding of CBL to EGFR	production	EGF-like ligands:p-6Y-EGFR:CBL
+CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix	production	Ub-Beta-Pix:CDC42:GTP
+H2O	consumption	PTPN12 dephosphorylates EGFR at Y1148 (Y1172)
+GRB2-1:SOS1	consumption	GRB2:SOS1 complex binds to EGF:EGFR complex
+Binding of GRB2 to GAB1	production	GRB2:GAB1
+p21 RAS:GDP	consumption	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)
+Dephosphorylation of Gab1 by SHP2	production	Pi
+EGFR dimerization	production	EGF-like ligands:EGFR dimer
+EGFR autophosphorylation	production	EGF-like ligands:p-6Y EGFR dimer
+SOS1	consumption	GRB2-1 binds SOS1
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	catalysis	SHP2 dephosphorylates Tyr 992 on EGFR
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	consumption	Dephosphorylation of Gab1 by SHP2
+GAB1 binds phosphatidylinositol-3,4,5-trisphosphate	production	GRB2:GAB1:PIP3
+GTP	consumption	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)
+PTPN3 dephosphorylates EPS15	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:EPS15:HGS:STAM
+PTPN11	consumption	Activation of SHP2 through the binding to phospho-Gab1
+SPRY1/2	consumption	Sprouty sequesters CBL away from active EGFR
+PLCG1	consumption	Phospholipase C-gamma1 binds to the activated EGF receptor
+Ub	consumption	Ubiquitination of stimulated EGFR (CBL)
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:SHP2	catalysis	Dephosphorylation of PAG by SHP2
+EGF-like ligands:p-6Y EGFR:SHC1	consumption	SHC1 phosphorylation by phosphorylated EGFR
+SHC1 binds to the phosphorylated EGF receptor:ligand complex	production	EGF-like ligands:p-6Y EGFR:SHC1
+ATP	consumption	Phosphorylation of CBL (EGFR:CBL)
+EGF-like ligands:p-6Y-EGFR:CBL	catalysis	Phosphorylation of CBL (EGFR:CBL)
+EPS15L1	consumption	EGFR binds EPS15, EPN1, EPS15L1
+EGF-like ligands:EGFR dimer	catalysis	EGFR autophosphorylation
+EPN1	consumption	EGFR binds EPS15, EPN1, EPS15L1
+GAB1 phosphorylation by EGFR kinase	production	EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1
+CBL-mediated ubiquitination of CIN85	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:Ub-CIN85:Endophilin:Epsin:Eps15L1:Eps15
+H2O	consumption	Sustained activation of SRC kinase by SHP2
+PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)	production	PI(3,4,5)P3
+PI(3,4,5)P3	consumption	GAB1 binds phosphatidylinositol-3,4,5-trisphosphate
+EGF-like ligands:p-6Y-EGFR:p-Y349,350-SHC1:GRB2:SOS1	catalysis	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)
+ATP	consumption	GAB1 phosphorylation by EGFR kinase
+EGF-like ligands:p-6Y EGFR:SHC1	catalysis	SHC1 phosphorylation by phosphorylated EGFR
+PI(4,5)P2	consumption	EGFR binds EPS15, EPN1, EPS15L1
+ATP	consumption	PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)
+EGF-like ligands:p-6Y EGFR dimer	consumption	SHC1 binds to the phosphorylated EGF receptor:ligand complex
+Ubiquitination of stimulated EGFR (CBL)	production	EGF-like ligands:Ub-p-6Y-EGFR:p-Y371-CBL
+Ub	consumption	Ubiquitination of stimulated EGFR (CBL:GRB2)
+p-Y317-PAG1	consumption	Dephosphorylation of PAG by SHP2
+EGF-like ligands:p-6Y-EGFR:p-Y349,350-SHC1	consumption	GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR
+EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85	consumption	CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85
+GRB2:SOS1 complex binds to EGF:EGFR complex	production	EGF-like ligands:p-6Y-EGFR:GRB2:SOS1
+SHC1 phosphorylation by phosphorylated EGFR	production	EGF-like ligands:p-6Y-EGFR:p-Y349,350-SHC1
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2	consumption	Assembly of EGFR complex in clathrin-coated vesicles
+CDC42:GTP binds CBL:Beta-Pix	production	CBL:Beta-Pix:CDC42:GTP
+CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85	production	CIN85:endophilin
+H2O	consumption	Dephosphorylation of PAG by SHP2
+EGF-like ligands:p-6Y EGFR dimer	consumption	Binding of CBL to EGFR
+GRB2-1	consumption	CBL binds to GRB2
+EGF-like ligands:p-6Y EGFR dimer	consumption	GRB2:SOS1 complex binds to EGF:EGFR complex
+EGFR phosphorylates EPS15	production	ADP
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:EPS15:HGS:STAM	consumption	EGFR phosphorylates EPS15
+PTPN12	catalysis	PTPN12 dephosphorylates EGFR at Y1148 (Y1172)
+PTPN3 dephosphorylates EPS15	production	Pi
+EGF-like ligands:p-6Y-EGFR:PLCG1	catalysis	EGFR activates PLC-gamma1 by phosphorylation
+EGF-like ligands:p-6Y-EGFR:GRB2:GAB1	consumption	GAB1 phosphorylation by EGFR kinase
+CIN85:endophilin	consumption	Assembly of EGFR complex in clathrin-coated vesicles
+H2O	consumption	SHP2 dephosphorylates Tyr 992 on EGFR
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15L1:Eps15	consumption	CBL-mediated ubiquitination of CIN85
+GAB1	consumption	Binding of GRB2 to GAB1
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1	consumption	Activation of SHP2 through the binding to phospho-Gab1
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL	consumption	CBL binds and ubiquitinates phosphorylated Sprouty
+EGF-like ligands:p-6Y-EGFR:CBL:p-Y53/55-SPRY1/2	catalysis	CBL ubiquitinates Sprouty
+CBL	consumption	CBL binds to GRB2
+ATP	consumption	Phosphorylation of EGFR by SRC kinase
+Beta-Pix:CDC42:GTP binds CBL in EGF:p-6Y-EGFR:CBL:CIN85	production	EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85
+GRB2-1	consumption	Binding of GRB2 to GAB1
+Pro-EGF	consumption	Pro-EGF is cleaved to form mature EGF
+Phosphorylation of CBL (EGFR:CBL)	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL
+Sprouty lures CBL away from EGFR	production	CBL:SPRY1/2
+EGF-like ligand:p-6Y-EGFR:p-Y472,771,783,1254-PLCG1	consumption	Active PLC-gamma1 dissociates from EGFR
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2	consumption	Ubiquitination of stimulated EGFR (CBL:GRB2)
+Pro-EGF is cleaved to form mature EGF	production	EGF
+Phosphorylation of CBL (EGFR:GRB2:CBL)	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2
+EPS15L1	consumption	EGFR non-clathrin mediated endocytosis
+EGFR non-clathrin mediated endocytosis	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15L1:Eps15
+PIK3CA:PIK3R1	consumption	PI3K binds to EGF:EGFR:GRB2:GAB1
+Ub	consumption	CBL binds and ubiquitinates phosphorylated Sprouty
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL	consumption	EGFR non-clathrin mediated endocytosis
+EGF-like ligands:p-6Y-EGFR:CBL:p-Y53/55-SPRY1/2	consumption	CBL ubiquitinates Sprouty
+CBL binds to GRB2	production	CBL:GRB2
+PTPRK	inhibition	Ubiquitination of stimulated EGFR (CBL:GRB2)
+EPN1	consumption	EGFR non-clathrin mediated endocytosis
+ATP	consumption	EGFR phosphorylates EPS15
+GAB1 phosphorylation by EGFR kinase	production	ADP
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL	catalysis	CBL binds and ubiquitinates phosphorylated Sprouty
+EGF-like ligands:p-6Y EGFR dimer	consumption	Localization of CBL:GRB2 to the membrane
+Beta-Pix:CDC42:GTP	consumption	Beta-Pix:CDC42:GTP binds CBL in EGF:p-6Y-EGFR:CBL:CIN85
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL	consumption	Ubiquitination of stimulated EGFR (CBL)
+Sprouty sequesters CBL away from active EGFR	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:CIN85:SPRY1/2:Endophilin:Epsin:Eps15L1:EPS15
+p-Y-PXN:CSK:MyrG,p-Y530-SRC	consumption	Sustained activation of SRC kinase by SHP2
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15L1:Eps15	consumption	Sprouty sequesters CBL away from active EGFR
+EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP	catalysis	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix
+Sustained activation of SRC kinase by SHP2	production	CSK
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:EPS15:HGS:STAM	catalysis	EGFR phosphorylates EPS15
+CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix	production	EGF-like ligands:p-6Y-EGFR:CBL:GRB2
+EPS15:HGS:STAM	consumption	EGFR binds EPS15, EPN1, EPS15L1
+CBL ubiquitinates Sprouty	production	EGF-like ligands:p-6Y-EGFR:CBL:Ub-p-Y53/55-SPRY1/2
+EGF-like ligands:EGFR dimer	consumption	Phosphorylation of EGFR by SRC kinase
+ATP	consumption	SHC1 phosphorylation by phosphorylated EGFR
+ADAM:Zn2+	catalysis	Pro-EGF is cleaved to form mature EGF
+EGF-like ligands:p-6Y-EGFR:CBL:GRB2	consumption	Phosphorylation of CBL (EGFR:GRB2:CBL)
+SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)	production	GDP
+SRC-1	catalysis	Phosphorylation of EGFR by SRC kinase
+EGF-like ligands:p-6Y-EGFR:CBL:GRB2	catalysis	Phosphorylation of CBL (EGFR:GRB2:CBL)
+LRIG1	inhibition	EGFR binds EGF ligand
+Ub	consumption	CBL-mediated ubiquitination of CIN85
+CBL:GRB2	consumption	Localization of CBL:GRB2 to the membrane
+Sustained activation of SRC kinase by SHP2	production	Pi
+GRB2:GAB1	consumption	GAB1 binds phosphatidylinositol-3,4,5-trisphosphate
+EGFR activates PLC-gamma1 by phosphorylation	production	EGF-like ligand:p-6Y-EGFR:p-Y472,771,783,1254-PLCG1
+CBL binds and ubiquitinates phosphorylated Sprouty	production	EGF-like ligands:p-6Y-EGFR:CBL:Ub-p-Y53/55-SPRY1/2
+EGFR binds EPS15, EPN1, EPS15L1	production	EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:EPN1:EPS15L1:EPS15:HGS:STAM
+Localization of CBL:GRB2 to the membrane	production	EGF-like ligands:p-6Y-EGFR:CBL:GRB2
+EGF-like ligands:p-6Y-EGFR:GRB2:p-5Y-GAB1:PI3K	catalysis	PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)
+SHP2 dephosphorylates Tyr 992 on EGFR	production	Pi
+GRB2-1:SOS1	consumption	GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15L1:Eps15	catalysis	CBL-mediated ubiquitination of CIN85
+EGF-like ligands:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin	consumption	EGFR binds EPS15, EPN1, EPS15L1
+EGF-like ligands:p-6Y-EGFR:GRB2:GAB1	catalysis	GAB1 phosphorylation by EGFR kinase
+EGF-like ligands	consumption	EGFR binds EGF ligand
+Active PLC-gamma1 dissociates from EGFR	production	p-4Y-PLCG1
+EGFR binds EGF ligand	production	EGFR:EGF-like ligands
+Dephosphorylation of Gab1 by SHP2	production	EGF-like ligands:p-6Y-EGFR:GRB2:p-Y627,659-GAB1:SHP2
+PTPN12 dephosphorylates EGFR at Y1148 (Y1172)	production	EGF:p-EGFR dimer dephosphorylated at Y1148 (Y1172)
+Sustained activation of SRC kinase by SHP2	production	PXN:MyrG-SRC
+GRB2-1	consumption	GRB2-1 binds SOS1
+Phosphorylation of CBL (EGFR:CBL)	production	ADP
+CBL	consumption	Binding of CBL to EGFR

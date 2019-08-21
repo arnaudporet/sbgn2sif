@@ -6,11 +6,11 @@ This work is licensed under the [Apache License Version 2.0](https://www.apache.
 
 ## sbgn2sif
 
-Converts SBGN-encoded pathways to the SIF file format.
+Convert SBGN-encoded pathways to the SIF file format.
 
-For information about the SBGN file format, please see https://sbgn.github.io.
+For information about the SBGN file format see https://sbgn.github.io.
 
-For information about the SIF file format, please see at the end of this readme file.
+For information about the SIF file format see at the end of this readme file.
 
 ### Requirements
 
@@ -19,18 +19,21 @@ For information about the SIF file format, please see at the end of this readme 
 
 ### Usage
 
-`sbgn2sif [-h] [-l] sbgnfile [sbgnfile ...]`
+Ensure that `sbgn2sif` is executable:
 
-Ensure that `sbgn2sif` is executable: `chmod ugo+x sbgn2sif`.
+```sh
+chmod ugo+x sbgn2sif
+```
+
+Usage: `sbgn2sif [-h] <sbgnfile> [<sbgnfile> ...]`
 
 Positional arguments:
 
-* `sbgnfile`: a SBGN file
+* `<sbgnfile>`: a SBGN-encoded pathway
 
 Optional arguments:
 
-* `-l/--license`: print the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) under which sbgn2sif is
-* `-h/--help`: print help
+* `-h/--help`: show help and exit
 
 sbgn2sif is currently quite lazy. It only requires:
 
@@ -41,7 +44,7 @@ sbgn2sif is currently quite lazy. It only requires:
 * arcs with valid source glyphs (cf. above)
 * arcs with valid target glyphs (cf. above)
 
-If a glyph has more than one label, then its name is the list of its labels separated with "||".
+If a glyph has more than one label then its name is the list of its labels separated with "||".
 
 ## Examples
 
@@ -67,9 +70,9 @@ In a SIF file encoding a network, each line encodes an edge as follows:
 source \t interaction \t target
 ```
 
-Note that the field separator is the tabulation `\t`: the SIF file format is the tab-separated values format (TSV) with exactly 3 columns.
+Note that the field separator is the tabulation: the SIF file format is the tab-separated values format (TSV) with exactly 3 columns.
 
-For example, the edge representing the _activation_ of _RAF1_ by _HRAS_ is a line of a SIF file encoded as follows:
+For example, the edge representing the activation of RAF1 by HRAS is a line of a SIF file encoded as follows:
 
 ```
 HRAS \t activation \t RAF1

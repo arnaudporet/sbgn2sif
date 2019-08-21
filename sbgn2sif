@@ -27,106 +27,84 @@ sbgn2sif is currently quite lazy. It only requires:
     * arcs with valid source glyphs (cf. above)
     * arcs with valid target glyphs (cf. above)
 
-If a glyph has more than one label, then its name is the list of its labels
+If a glyph has more than one label then its name is the list of its labels
 separated with "||".
 
-For explanations about the SBGN file format, see https://sbgn.github.io
+For explanations about the SBGN file format see https://sbgn.github.io.
 
-For explanations about the SIF file format, see the readme file of sbgn2sif.
+For explanations about the SIF file format see the readme file of sbgn2sif.
 """,
 formatter_class=argparse.RawDescriptionHelpFormatter
 )
-parser.add_argument("sbgnfile",type=str,help="a SBGN file",nargs="+")
-parser.add_argument("-l","--license",help="print the Apache License Version 2.0 under which sbgn2sif is",action="store_true")
+parser.add_argument("sbgnfile",type=str,metavar="<sbgnfile>",help="a SBGN-encoded pathway",nargs="+")
 args=parser.parse_args()
-if args.license:
-    print(
-    """
-
-    Copyright 2019 Arnaud Poret
-
-    Licensed under the Apache License, Version 2.0 (the "License").
-    You may not use this file except in compliance with the License.
-    You may obtain a copy of the License at:
-    https://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software distributed
-    under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-    CONDITIONS OF ANY KIND, either express or implied. See the License for the
-    specific language governing permissions and limitations under the License.
-
-    """
-    )
-else:
-    import os.path
-    import re
-    import xml.etree.ElementTree
-    for sbgnFile in args.sbgnfile:
-        warns=[]
-        edges=[]
-        sbgn=xml.etree.ElementTree.fromstring(re.sub(r"\bxmlns=\".*?\"","",open(sbgnFile,"rt").read()))
-        for map_ in sbgn.findall("map"):
-            glyphs={}
-            ports={}
-            arcs={}
-            for glyph in map_.findall("glyph"):
-                id_=glyph.get("id")
-                if id_==None:
-                    warns.append("glyph with no ID, skipping")
-                elif (id_ in glyphs.keys()) or (id_ in ports.keys()):
-                    warns.append("glyph "+id_+": duplicated ID, skipping")
-                else:
-                    glyphs[id_]=[]
-                    for label in glyph.findall("label"):
-                        name=label.get("text")
-                        if (name!=None) and (name!=""):
-                            if name not in glyphs[id_]:
-                                glyphs[id_].append(name)
-                            for port in glyph.findall("port"):
-                                alias=port.get("id")
-                                if alias==None:
-                                    warns.append("glyph "+id_+": port with no ID, skipping")
-                                elif (alias in glyphs.keys()) or (alias in ports.keys()):
-                                    warns.append("glyph "+id_+": port "+alias+": duplicated ID, skipping")
-                                else:
-                                    ports[alias]=id_
-            for id_ in glyphs.keys():
-                if len(glyphs[id_])==0:
+import os.path
+import re
+import xml.etree.ElementTree
+for sbgnFile in args.sbgnfile:
+    warns=[]
+    edges=[]
+    sbgn=xml.etree.ElementTree.fromstring(re.sub(r"\bxmlns=\".*?\"","",open(sbgnFile,"rt").read()))
+    for map_ in sbgn.findall("map"):
+        glyphs={}
+        arcs={}
+        for glyph in map_.findall("glyph"):
+            id_=glyph.get("id")
+            if id_==None:
+                warns.append("glyph with no ID, skipping")
+            elif id_ in glyphs.keys():
+                warns.append("glyph "+id_+": duplicated ID, skipping")
+            else:
+                labels=[]
+                for label in glyph.findall("label"):
+                    name=label.get("text")
+                    if (name!=None) and (name!="") and (name not in labels):
+                        labels.append(name)
+                if len(labels)==0:
                     warns.append("glyph "+id_+": missing label, skipping")
                 else:
-                    glyphs[id_]="||".join(glyphs[id_])
-            for alias in ports.keys():
-                glyphs[alias]=glyphs[ports[alias]]
-            for arc in map_.findall("arc"):
-                id_=arc.get("id")
-                class_=arc.get("class")
-                source=arc.get("source")
-                target=arc.get("target")
-                if id_==None:
-                    warns.append("arc with no ID, skipping")
-                elif id_ in arcs.keys():
-                    warns.append("arc "+id_+": duplicated ID, skipping")
-                elif (class_==None) or (class_==""):
-                    warns.append("arc "+id_+": missing class, skipping")
-                elif source not in glyphs.keys():
-                    warns.append("arc "+id_+": invalid source glyph, skipping")
-                elif target not in glyphs.keys():
-                    warns.append("arc "+id_+": invalid target glyph, skipping")
-                else:
-                    arcs[id_]="\t".join([glyphs[source],class_,glyphs[target]])
-            for id_ in arcs:
-                if arcs[id_] not in edges:
-                    edges.append(arcs[id_])
-        if len(warns)!=0:
-            warnFile=list(os.path.splitext(sbgnFile))
-            warnFile[1]="-warnings.txt"
-            warnFile="".join(warnFile)
-            print("Warning: sbgn2sif: "+sbgnFile+": see "+warnFile)
-            open(warnFile,"w").write("\n".join(warns)+"\n")
-        if len(edges)==0:
-            print("Warning: sbgn2sif: "+sbgnFile+": empty after siffing, skipping")
-        else:
-            sifFile=list(os.path.splitext(sbgnFile))
-            sifFile[1]=".sif"
-            sifFile="".join(sifFile)
-            open(sifFile,"w").write("\n".join(edges)+"\n")
+                    glyphs[id_]="||".join(labels)
+        for glyph in map_.findall("glyph"):
+            id_=glyph.get("id")
+            if id_ in glyphs.keys():
+                for port in glyph.findall("port"):
+                    alias=port.get("id")
+                    if alias==None:
+                        warns.append("glyph "+id_+": port with no ID, skipping")
+                    elif alias in glyphs.keys():
+                        warns.append("glyph "+id_+": port "+alias+": duplicated ID, skipping")
+                    else:
+                        glyphs[alias]=glyphs[id_]
+        for arc in map_.findall("arc"):
+            id_=arc.get("id")
+            class_=arc.get("class")
+            source=arc.get("source")
+            target=arc.get("target")
+            if id_==None:
+                warns.append("arc with no ID, skipping")
+            elif id_ in arcs.keys():
+                warns.append("arc "+id_+": duplicated ID, skipping")
+            elif (class_==None) or (class_==""):
+                warns.append("arc "+id_+": missing class, skipping")
+            elif source not in glyphs.keys():
+                warns.append("arc "+id_+": invalid source glyph, skipping")
+            elif target not in glyphs.keys():
+                warns.append("arc "+id_+": invalid target glyph, skipping")
+            else:
+                arcs[id_]="\t".join([glyphs[source],class_,glyphs[target]])
+        for id_ in arcs:
+            if arcs[id_] not in edges:
+                edges.append(arcs[id_])
+    if len(warns)!=0:
+        warnFile=list(os.path.splitext(sbgnFile))
+        warnFile[1]="-warnings.txt"
+        warnFile="".join(warnFile)
+        print("Warning: sbgn2sif: "+sbgnFile+": see "+warnFile)
+        open(warnFile,"w").write("\n".join(warns)+"\n")
+    if len(edges)==0:
+        print("Warning: sbgn2sif: "+sbgnFile+": empty after siffing, skipping")
+    else:
+        sifFile=list(os.path.splitext(sbgnFile))
+        sifFile[1]=".sif"
+        sifFile="".join(sifFile)
+        open(sifFile,"w").write("\n".join(edges)+"\n")

@@ -78,912 +78,702 @@
     </g>
     <g id="y.node.0">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2233.877" width="38.6722" height="30" y="1019" stroke="none"/>
+        <rect x="2233.877" y="1019" width="38.6722" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2240.877" xml:space="preserve" y="1036.748" stroke="none">GTP</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2233.877" width="38.6722" height="30" y="1019"/>
-      </g>
     </g>
     <g id="y.node.1">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1933.852" width="394.8348" height="30" y="1160" stroke="none"/>
+        <rect x="1933.852" y="1160" width="394.8348" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1940.8521" xml:space="preserve" y="1177.748" stroke="none">GRB2:SOS1:p-Y-IRS1,p-Y-IRS2 mediated nucleotide exchange of RAS</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1933.852" width="394.8348" height="30" y="1160"/>
-      </g>
     </g>
     <g id="y.node.2">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="914.1616" width="186.7292" height="30" y="0" stroke="none"/>
+        <rect x="914.1616" y="0" width="186.7292" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="921.1616" xml:space="preserve" y="17.748" stroke="none">IRS:Insulin:p-6Y-Insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="914.1616" width="186.7292" height="30" y="0"/>
-      </g>
     </g>
     <g id="y.node.3">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="904.9824" width="136.7249" height="30" y="77" stroke="none"/>
+        <rect x="904.9824" y="77" width="136.7249" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="911.9824" xml:space="preserve" y="94.748" stroke="none">Phosphorylation of IRS</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="904.9824" width="136.7249" height="30" y="77"/>
-      </g>
     </g>
     <g id="y.node.4">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1070.994" width="85.3525" height="30" y="419" stroke="none"/>
+        <rect x="1070.994" y="419" width="85.3525" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1077.994" xml:space="preserve" y="436.748" stroke="none">GRB10:INSR</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1070.994" width="85.3525" height="30" y="419"/>
-      </g>
     </g>
     <g id="y.node.5">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2025.0591" width="188.7452" height="30" y="804" stroke="none"/>
+        <rect x="2025.0591" y="804" width="188.7452" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2032.0591" xml:space="preserve" y="821.748" stroke="none">Binding of IRS to insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2025.0591" width="188.7452" height="30" y="804"/>
-      </g>
     </g>
     <g id="y.node.6">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1255.9836" width="163.3891" height="30" y="276" stroke="none"/>
+        <rect x="1255.9836" y="276" width="163.3891" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1262.9836" xml:space="preserve" y="293.748" stroke="none">Insulin:p-6Y-Insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1255.9836" width="163.3891" height="30" y="276"/>
-      </g>
     </g>
     <g id="y.node.7">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1254.7233" width="206.7574" height="30" y="369" stroke="none"/>
+        <rect x="1254.7233" y="369" width="206.7574" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1261.7233" xml:space="preserve" y="386.748" stroke="none">Internalisation of the insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1254.7233" width="206.7574" height="30" y="369"/>
-      </g>
     </g>
     <g id="y.node.8">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="938.6679" width="198.7293" height="30" y="573" stroke="none"/>
+        <rect x="938.6679" y="573" width="198.7293" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="945.6679" xml:space="preserve" y="590.748" stroke="none">Insulin:p-6Y-Insulin receptor:SHC1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="938.6679" width="198.7293" height="30" y="573"/>
-      </g>
     </g>
     <g id="y.node.9">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="926.4887" width="148.7249" height="30" y="666" stroke="none"/>
+        <rect x="926.4887" y="666" width="148.7249" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="933.4887" xml:space="preserve" y="683.748" stroke="none">Phosphorylation of SHC1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="926.4887" width="148.7249" height="30" y="666"/>
-      </g>
     </g>
     <g id="y.node.10">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1619.5488" width="96.0326" height="30" y="881" stroke="none"/>
+        <rect x="1619.5488" y="881" width="96.0326" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1626.5488" xml:space="preserve" y="898.748" stroke="none">Insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1619.5488" width="96.0326" height="30" y="881"/>
-      </g>
     </g>
     <g id="y.node.11">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1518.8561" width="185.4092" height="30" y="958" stroke="none"/>
+        <rect x="1518.8561" y="958" width="185.4092" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1525.8561" xml:space="preserve" y="975.748" stroke="none">Insulin binds the insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1518.8561" width="185.4092" height="30" y="958"/>
-      </g>
     </g>
     <g id="y.node.12">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1002.6175" width="222.1055" height="30" y="369" stroke="none"/>
+        <rect x="1002.6175" y="369" width="222.1055" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1009.6175" xml:space="preserve" y="386.748" stroke="none">Binding of Grb10 to the insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1002.6175" width="222.1055" height="30" y="369"/>
-      </g>
     </g>
     <g id="y.node.13">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="20.0002" width="279.4179" height="30" y="1303" stroke="none"/>
+        <rect x="20.0002" y="1303" width="279.4179" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="27.0002" xml:space="preserve" y="1320.748" stroke="none">GRB2:p-4S-SOS1:p-Y-IRS1,p-Y-IRS2 dissociates</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="20.0002" width="279.4179" height="30" y="1303"/>
-      </g>
     </g>
     <g id="y.node.14">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="181.4618" width="122.0368" height="30" y="1396" stroke="none"/>
+        <rect x="181.4618" y="1396" width="122.0368" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="188.4618" xml:space="preserve" y="1413.748" stroke="none">GRB2-1:p-4S-SOS1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="181.4618" width="122.0368" height="30" y="1396"/>
-      </g>
     </g>
     <g id="y.node.15">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1276.7435" width="162.717" height="30" y="419" stroke="none"/>
+        <rect x="1276.7435" y="419" width="162.717" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1283.7434" xml:space="preserve" y="436.748" stroke="none">Insulin:p-6Y-insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1276.7435" width="162.717" height="30" y="419"/>
-      </g>
     </g>
     <g id="y.node.16">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1237.4012" width="241.4016" height="30" y="512" stroke="none"/>
+        <rect x="1237.4012" y="512" width="241.4016" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1244.4012" xml:space="preserve" y="529.748" stroke="none">Dissociation of insulin from insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1237.4012" width="241.4016" height="30" y="512"/>
-      </g>
     </g>
     <g id="y.node.17">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1540.8682" width="48.6802" height="30" y="881" stroke="none"/>
+        <rect x="1540.8682" y="881" width="48.6802" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1547.8682" xml:space="preserve" y="898.748" stroke="none">Insulin</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1540.8682" width="48.6802" height="30" y="881"/>
-      </g>
     </g>
     <g id="y.node.18">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="65.0115" width="378.7905" height="30" y="1160" stroke="none"/>
+        <rect x="65.0115" y="1160" width="378.7905" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="72.0115" xml:space="preserve" y="1177.748" stroke="none">MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="65.0115" width="378.7905" height="30" y="1160"/>
-      </g>
     </g>
     <g id="y.node.19">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="821.4207" width="38.6722" height="30" y="1253" stroke="none"/>
+        <rect x="821.4207" y="1253" width="38.6722" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="828.4207" xml:space="preserve" y="1270.748" stroke="none">ADP</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="821.4207" width="38.6722" height="30" y="1253"/>
-      </g>
     </g>
     <g id="y.node.20">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1544.5363" width="134.0488" height="30" y="1019" stroke="none"/>
+        <rect x="1544.5363" y="1019" width="134.0488" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1551.5363" xml:space="preserve" y="1036.748" stroke="none">Insulin:Insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1544.5363" width="134.0488" height="30" y="1019"/>
-      </g>
     </g>
     <g id="y.node.21">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1356.9297" width="168.0811" height="30" y="573" stroke="none"/>
+        <rect x="1356.9297" y="573" width="168.0811" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1363.9297" xml:space="preserve" y="590.748" stroke="none">protein tyrosine phosphatase</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1356.9297" width="168.0811" height="30" y="573"/>
-      </g>
     </g>
     <g id="y.node.22">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1617.2108" width="201.4173" height="30" y="666" stroke="none"/>
+        <rect x="1617.2108" y="666" width="201.4173" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1624.2108" xml:space="preserve" y="683.748" stroke="none">Insulin receptor de-phosphorylation</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1617.2108" width="201.4173" height="30" y="666"/>
-      </g>
     </g>
     <g id="y.node.23">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2342.1804" width="30" height="30" y="276" stroke="none"/>
+        <rect x="2342.1804" y="276" width="30" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2349.3442" xml:space="preserve" y="293.748" stroke="none">H+</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2342.1804" width="30" height="30" y="276"/>
-      </g>
     </g>
     <g id="y.node.24">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2288.4879" width="137.3848" height="30" y="199" stroke="none"/>
+        <rect x="2288.4879" y="199" width="137.3848" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2295.488" xml:space="preserve" y="216.748" stroke="none">Endosome acidification</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2288.4879" width="137.3848" height="30" y="199"/>
-      </g>
     </g>
     <g id="y.node.25">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1183.9056" width="209.4094" height="30" y="958" stroke="none"/>
+        <rect x="1183.9056" y="958" width="209.4094" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1190.9056" xml:space="preserve" y="975.748" stroke="none">De-phosphorylation of p-Y427-SHC1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1183.9056" width="209.4094" height="30" y="958"/>
-      </g>
     </g>
     <g id="y.node.26">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1213.2558" width="46.0042" height="30" y="1019" stroke="none"/>
+        <rect x="1213.2558" y="1019" width="46.0042" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1220.2559" xml:space="preserve" y="1036.748" stroke="none">SHC1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1213.2558" width="46.0042" height="30" y="1019"/>
-      </g>
     </g>
     <g id="y.node.27">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1511.176" width="312.7781" height="30" y="804" stroke="none"/>
+        <rect x="1511.176" y="804" width="312.7781" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1518.176" xml:space="preserve" y="821.748" stroke="none">Re-integration of insulin receptor into plasma membrane</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1511.176" width="312.7781" height="30" y="804"/>
-      </g>
     </g>
     <g id="y.node.28">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1292.8287" width="209.3974" height="30" y="138" stroke="none"/>
+        <rect x="1292.8287" y="138" width="209.3974" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1299.8287" xml:space="preserve" y="155.748" stroke="none">p-Y-IRS:Insulin:p-6Y-Insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1292.8287" width="209.3974" height="30" y="138"/>
-      </g>
     </g>
     <g id="y.node.29">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1555.0111" width="124.7008" height="30" y="573" stroke="none"/>
+        <rect x="1555.0111" y="573" width="124.7008" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1562.0111" xml:space="preserve" y="590.748" stroke="none">p-6Y-insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1555.0111" width="124.7008" height="30" y="573"/>
-      </g>
     </g>
     <g id="y.node.30">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="846.8212" width="37.3402" height="30" y="0" stroke="none"/>
+        <rect x="846.8212" y="0" width="37.3402" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="853.8212" xml:space="preserve" y="17.748" stroke="none">ATP</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="846.8212" width="37.3402" height="30" y="0"/>
-      </g>
     </g>
     <g id="y.node.31">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="912.9916" width="221.4334" height="30" y="1160" stroke="none"/>
+        <rect x="912.9916" y="1160" width="221.4334" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="919.9916" xml:space="preserve" y="1177.748" stroke="none">Autophosphorylation of insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="912.9916" width="221.4334" height="30" y="1160"/>
-      </g>
     </g>
     <g id="y.node.32">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1619.8848" width="95.3606" height="30" y="743" stroke="none"/>
+        <rect x="1619.8848" y="743" width="95.3606" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1626.8848" xml:space="preserve" y="760.748" stroke="none">insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1619.8848" width="95.3606" height="30" y="743"/>
-      </g>
     </g>
     <g id="y.node.33">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1880.4467" width="206.0734" height="30" y="958" stroke="none"/>
+        <rect x="1880.4467" y="958" width="206.0734" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1887.4467" xml:space="preserve" y="975.748" stroke="none">GRB2-1:SOS1 binds p-IRS1,p-IRS2</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1880.4467" width="206.0734" height="30" y="958"/>
-      </g>
     </g>
     <g id="y.node.34">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1884.4547" width="198.0573" height="30" y="1019" stroke="none"/>
+        <rect x="1884.4547" y="1019" width="198.0573" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1891.4547" xml:space="preserve" y="1036.748" stroke="none">GRB2-1:SOS1:p-Y-IRS1,p-Y-IRS2</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1884.4547" width="198.0573" height="30" y="1019"/>
-      </g>
     </g>
     <g id="y.node.35">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2021.1725" width="70.6884" height="30" y="743" stroke="none"/>
+        <rect x="2021.1725" y="743" width="70.6884" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2028.1725" xml:space="preserve" y="760.748" stroke="none">IRS1,IRS2</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2021.1725" width="70.6884" height="30" y="743"/>
-      </g>
     </g>
     <g id="y.node.36">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1543.0253" width="360.8265" height="30" y="1160" stroke="none"/>
+        <rect x="1543.0253" y="1160" width="360.8265" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1550.0253" xml:space="preserve" y="1177.748" stroke="none">GRB2:SOS:p-Y427-SHC1 mediated nucleotide exchange of RAS</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1543.0253" width="360.8265" height="30" y="1160"/>
-      </g>
     </g>
     <g id="y.node.37">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2199.9749" width="40.0042" height="30" y="1253" stroke="none"/>
+        <rect x="2199.9749" y="1253" width="40.0042" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2206.9749" xml:space="preserve" y="1270.748" stroke="none">GDP</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2199.9749" width="40.0042" height="30" y="1253"/>
-      </g>
     </g>
     <g id="y.node.38">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="917.3257" width="241.4136" height="30" y="743" stroke="none"/>
+        <rect x="917.3257" y="743" width="241.4136" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="924.3257" xml:space="preserve" y="760.748" stroke="none">Insulin:p-6Y-Insulin receptor:p-Y427-SHC1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="917.3257" width="241.4136" height="30" y="743"/>
-      </g>
     </g>
     <g id="y.node.39">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1277.8286" width="239.3976" height="30" y="199" stroke="none"/>
+        <rect x="1277.8286" y="199" width="239.3976" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1284.8286" xml:space="preserve" y="216.748" stroke="none">Dissociation of IRS-P from insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1277.8286" width="239.3976" height="30" y="199"/>
-      </g>
     </g>
     <g id="y.node.40">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2171.2924" width="116.0247" height="30" y="573" stroke="none"/>
+        <rect x="2171.2924" y="573" width="116.0247" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2178.2925" xml:space="preserve" y="590.748" stroke="none">p-Y-IRS1,p-Y-IRS2</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2171.2924" width="116.0247" height="30" y="573"/>
-      </g>
     </g>
     <g id="y.node.41">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2396.3663" width="68.6844" height="30" y="0" stroke="none"/>
+        <rect x="2396.3663" y="0" width="68.6844" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2403.3665" xml:space="preserve" y="17.748" stroke="none">V-ATPase</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2396.3663" width="68.6844" height="30" y="0"/>
-      </g>
     </g>
     <g id="y.node.42">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2313.1619" width="156.729" height="30" y="77" stroke="none"/>
+        <rect x="2313.1619" y="77" width="156.729" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2320.1619" xml:space="preserve" y="94.748" stroke="none">ATP6AP1 binds V-ATPase</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2313.1619" width="156.729" height="30" y="77"/>
-      </g>
     </g>
     <g id="y.node.43">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1356.4631" width="124.7128" height="30" y="804" stroke="none"/>
+        <rect x="1356.4631" y="804" width="124.7128" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1363.463" xml:space="preserve" y="821.748" stroke="none">GRB2-1 binds SOS1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1356.4631" width="124.7128" height="30" y="804"/>
-      </g>
     </g>
     <g id="y.node.44">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1372.4712" width="92.6965" height="30" y="881" stroke="none"/>
+        <rect x="1372.4712" y="881" width="92.6965" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1379.4712" xml:space="preserve" y="898.748" stroke="none">GRB2-1:SOS1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1372.4712" width="92.6965" height="30" y="881"/>
-      </g>
     </g>
     <g id="y.node.45">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1440.6497" width="57.3443" height="30" y="743" stroke="none"/>
+        <rect x="1440.6497" y="743" width="57.3443" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1447.6497" xml:space="preserve" y="760.748" stroke="none">GRB2-1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1440.6497" width="57.3443" height="30" y="743"/>
-      </g>
     </g>
     <g id="y.node.46">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="937.6599" width="200.7453" height="30" y="512" stroke="none"/>
+        <rect x="937.6599" y="512" width="200.7453" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="944.6599" xml:space="preserve" y="529.748" stroke="none">Binding of SHC1 to insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="937.6599" width="200.7453" height="30" y="512"/>
-      </g>
     </g>
     <g id="y.node.47">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1031.4699" width="53.3483" height="30" y="276" stroke="none"/>
+        <rect x="1031.4699" y="276" width="53.3483" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1038.47" xml:space="preserve" y="293.748" stroke="none">GRB10</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1031.4699" width="53.3483" height="30" y="276"/>
-      </g>
     </g>
     <g id="y.node.48">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="360.7626" width="200.0613" height="30" y="1253" stroke="none"/>
+        <rect x="360.7626" y="1253" width="200.0613" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="367.7626" xml:space="preserve" y="1270.748" stroke="none">GRB2-1:p-4S-SOS1:p-Y427-SHC1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="360.7626" width="200.0613" height="30" y="1253"/>
-      </g>
     </g>
     <g id="y.node.49">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="329.4184" width="262.7498" height="30" y="1303" stroke="none"/>
+        <rect x="329.4184" y="1303" width="262.7498" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="336.4184" xml:space="preserve" y="1320.748" stroke="none">GRB2-1:p-4S-SOS1:p-Y427-SHC1 dissociates</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="329.4184" width="262.7498" height="30" y="1303"/>
-      </g>
     </g>
     <g id="y.node.50">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2468.224" width="40.0162" height="30" y="573" stroke="none"/>
+        <rect x="2468.224" y="573" width="40.0162" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2475.2241" xml:space="preserve" y="590.748" stroke="none">PI3K</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2468.224" width="40.0162" height="30" y="573"/>
-      </g>
     </g>
     <g id="y.node.51">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2359.6872" width="171.3931" height="30" y="666" stroke="none"/>
+        <rect x="2359.6872" y="666" width="171.3931" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2366.6873" xml:space="preserve" y="683.748" stroke="none">p-Y-IRS1,p-Y-IRS2 bind PI3K</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2359.6872" width="171.3931" height="30" y="666"/>
-      </g>
     </g>
     <g id="y.node.52">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="51.3444" width="216.7295" height="30" y="1253" stroke="none"/>
+        <rect x="51.3444" y="1253" width="216.7295" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="58.3444" xml:space="preserve" y="1270.748" stroke="none">GRB2:p-4S-SOS1:p-Y-IRS1,p-Y-IRS2</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="51.3444" width="216.7295" height="30" y="1253"/>
-      </g>
     </g>
     <g id="y.node.53">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1881.9546" width="232.7496" height="30" y="666" stroke="none"/>
+        <rect x="1881.9546" y="666" width="232.7496" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1888.9546" xml:space="preserve" y="683.748" stroke="none">Dephosphorylation of p-Y-IRS1,p-Y-IRS2</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1881.9546" width="232.7496" height="30" y="666"/>
-      </g>
     </g>
     <g id="y.node.54">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1824.4544" width="30" height="30" y="1019" stroke="none"/>
+        <rect x="1824.4544" y="1019" width="30" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1834.1204" xml:space="preserve" y="1036.748" stroke="none">Pi</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1824.4544" width="30" height="30" y="1019"/>
-      </g>
     </g>
     <g id="y.node.55">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1214.9169" width="48.0082" height="30" y="573" stroke="none"/>
+        <rect x="1214.9169" y="573" width="48.0082" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1221.9169" xml:space="preserve" y="590.748" stroke="none">insulin</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1214.9169" width="48.0082" height="30" y="573"/>
-      </g>
     </g>
     <g id="y.node.56">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="473.8022" width="351.4543" height="30" y="1160" stroke="none"/>
+        <rect x="473.8022" y="1160" width="351.4543" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="480.8022" xml:space="preserve" y="1177.748" stroke="none">MAPK3,(MAPK1) phosphorylates GRB2-1:SOS1:p-Y427-SHC1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="473.8022" width="351.4543" height="30" y="1160"/>
-      </g>
     </g>
     <g id="y.node.57">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2329.17" width="124.7128" height="30" y="138" stroke="none"/>
+        <rect x="2329.17" y="138" width="124.7128" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2336.1699" xml:space="preserve" y="155.748" stroke="none">V-ATPase:ATP6AP1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2329.17" width="124.7128" height="30" y="138"/>
-      </g>
     </g>
     <g id="y.node.58">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2112.5122" width="91.3645" height="30" y="1019" stroke="none"/>
+        <rect x="2112.5122" y="1019" width="91.3645" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2119.5122" xml:space="preserve" y="1036.748" stroke="none">p21 RAS:GDP</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2112.5122" width="91.3645" height="30" y="1019"/>
-      </g>
     </g>
     <g id="y.node.59">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2372.6952" width="145.377" height="30" y="743" stroke="none"/>
+        <rect x="2372.6952" y="743" width="145.377" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2379.6953" xml:space="preserve" y="760.748" stroke="none">p-Y-IRS1,p-Y-IRS2:PI3K</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2372.6952" width="145.377" height="30" y="743"/>
-      </g>
     </g>
     <g id="y.node.60">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="967.1764" width="170.7211" height="30" y="1019" stroke="none"/>
+        <rect x="967.1764" y="1019" width="170.7211" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="974.1763" xml:space="preserve" y="1036.748" stroke="none">GRB2-1:SOS1:p-Y427-SHC1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="967.1764" width="170.7211" height="30" y="1019"/>
-      </g>
     </g>
     <g id="y.node.61">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="979.6803" width="88.6885" height="30" y="881" stroke="none"/>
+        <rect x="979.6803" y="881" width="88.6885" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="986.6804" xml:space="preserve" y="898.748" stroke="none">p-Y427-SHC1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="979.6803" width="88.6885" height="30" y="881"/>
-      </g>
     </g>
     <g id="y.node.62">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="951.1682" width="202.7373" height="30" y="958" stroke="none"/>
+        <rect x="951.1682" y="958" width="202.7373" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="958.1683" xml:space="preserve" y="975.748" stroke="none">GRB2-1:SOS1 binds p-Y427-SHC1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="951.1682" width="202.7373" height="30" y="958"/>
-      </g>
     </g>
     <g id="y.node.63">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="2299.6739" width="66.6924" height="30" y="0" stroke="none"/>
+        <rect x="2299.6739" y="0" width="66.6924" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="2306.6738" xml:space="preserve" y="17.748" stroke="none">ATP6AP1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="2299.6739" width="66.6924" height="30" y="0"/>
-      </g>
     </g>
     <g id="y.node.64">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="227.7346" width="106.6887" height="30" y="1019" stroke="none"/>
+        <rect x="227.7346" y="1019" width="106.6887" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="234.7346" xml:space="preserve" y="1036.748" stroke="none">MAPK3,(MAPK1)</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="227.7346" width="106.6887" height="30" y="1019"/>
-      </g>
     </g>
     <g id="y.node.65">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1610.7238" width="90.0325" height="30" y="1253" stroke="none"/>
+        <rect x="1610.7238" y="1253" width="90.0325" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1617.7238" xml:space="preserve" y="1270.748" stroke="none">p21 RAS:GTP</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1610.7238" width="90.0325" height="30" y="1253"/>
-      </g>
     </g>
     <g id="y.node.66">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="896.9916" width="282.0819" height="30" y="804" stroke="none"/>
+        <rect x="896.9916" y="804" width="282.0819" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="903.9916" xml:space="preserve" y="821.748" stroke="none">Dissociation of p-Y427-SHC1 from insulin receptor</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="896.9916" width="282.0819" height="30" y="804"/>
-      </g>
     </g>
     <g id="y.node.67">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1364.6332" width="46.0162" height="30" y="743" stroke="none"/>
+        <rect x="1364.6332" y="743" width="46.0162" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1371.6332" xml:space="preserve" y="760.748" stroke="none">SOS1</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1364.6332" width="46.0162" height="30" y="743"/>
-      </g>
     </g>
     <g id="y.node.68">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1292.9253" width="34.0042" height="30" y="573" stroke="none"/>
+        <rect x="1292.9253" y="573" width="34.0042" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1299.9253" xml:space="preserve" y="590.748" stroke="none">IDA</text>
         </g>
       </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1292.9253" width="34.0042" height="30" y="573"/>
-      </g>
     </g>
     <g id="y.node.69">
       <g fill="rgb(204,204,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke="rgb(204,204,255)">
-        <rect x="1210.0739" width="115.3887" height="30" y="666" stroke="none"/>
+        <rect x="1210.0739" y="666" width="115.3887" rx="4" ry="4" height="30" stroke="none"/>
       </g>
       <g>
         <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
           <text x="1217.0739" xml:space="preserve" y="683.748" stroke="none">Insulin degradation</text>
         </g>
-      </g>
-      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <rect fill="none" x="1210.0739" width="115.3887" height="30" y="666"/>
       </g>
     </g>
     <g onmouseout="HideTooltip(evt)" id="y.edge.0" onmousemove="ShowTooltip(evt)">
@@ -1058,7 +848,7 @@
     </g>
     <g onmouseout="HideTooltip(evt)" id="y.edge.10" onmousemove="ShowTooltip(evt)">
       <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <path fill="none" d="M349.1044 1190 L349.1044 1221.5 L825.2879 1221.5 L825.2879 1252.9692"/>
+        <path fill="none" d="M349.1044 1190 L349.1044 1221.5 L825.2879 1221.5 L825.2879 1253"/>
       </g>
     </g>
     <g onmouseout="HideTooltip(evt)" id="y.edge.46" onmousemove="ShowTooltip(evt)">
@@ -1153,7 +943,7 @@
     </g>
     <g onmouseout="HideTooltip(evt)" id="y.edge.79" onmousemove="ShowTooltip(evt)">
       <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-5,31)" stroke-linecap="butt">
-        <path fill="none" d="M968.35 1190 L968.35 1221.5 L856.2256 1221.5 L856.2256 1252.9692"/>
+        <path fill="none" d="M968.35 1190 L968.35 1221.5 L856.2256 1221.5 L856.2256 1253"/>
       </g>
     </g>
     <g onmouseout="HideTooltip(evt)" id="y.edge.20" onmousemove="ShowTooltip(evt)">

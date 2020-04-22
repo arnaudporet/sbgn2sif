@@ -1,0 +1,202 @@
+(p-S15,S20-TP53,TP63,TP73):(PPP1R13B,TP53BP2)	consumption	TP53 binds the BBC3 (PUMA) promoter
+(p-S15,S20-TP53,TP63,TP73):(PPP1R13B,TP53BP2):BBC3 Gene	stimulation	TP53 stimulates BBC3 (PUMA) expression
+14-3-3 dimer	consumption	Sequestration of BAD protein by 14-3-3
+14-3-3 proteins:p-S99-BAD complex	consumption	Activation of BAD by calcineurin
+AKT phosphorylates BAD	production	ADP
+AKT phosphorylates BAD	production	p-S99-BAD
+APAF1 binds AVEN	production	APAF1:AVEN
+APAF1:ADP	consumption	APAF1 binds AVEN
+APAF1:ADP	consumption	CYCS binds to APAF1
+APAF1:ATP:CYCS	consumption	CYCS:APAF1 binds procaspase-9
+APAF1:ATP:CYCS heptamer:CASP9	consumption	APAF1:CYCS binds APIP
+APAF1:ATP:CYCS heptamer:CASP9	consumption	CASP9 is phosphorylated at T125
+APAF1:ATP:CYCS heptamer:CASP9	consumption	Procaspase 9 forms dimer
+APAF1:CYCS binds APIP	production	APAF1:CYCS:ATP:APIP
+APAF1:CYCS:ATP:CASP9(1-416)dimer	catalysis	Cleavage of Procaspase‑9 to caspase‑9
+APAF1:CYCS:ATP:CASP9(1-416)dimer	consumption	Cleavage of Procaspase‑9 to caspase‑9
+APAF1:CYCS:CASP9:XIAP:DIABLO	consumption	Dissociation of DIABLO:XIAP from the apoptosome complex
+APIP	consumption	APAF1:CYCS binds APIP
+APIP	inhibition	CYCS:APAF1 binds procaspase-9
+ATP	consumption	AKT phosphorylates BAD
+ATP	consumption	CASP9 is phosphorylated at T125
+ATP	consumption	CYCS binds to APAF1
+ATP	consumption	Cleavage of Procaspase-3 by the apoptosome
+ATP	consumption	Cleavage of Procaspase-7 by the apoptosome
+ATP	consumption	Phosphorylation of BIM by JNK
+ATP	consumption	Phosphorylation of DLC2 by MAPK8
+AVEN	consumption	APAF1 binds AVEN
+AVEN	inhibition	CYCS:APAF1 binds procaspase-9
+Activated BAX,BAK oligomers	stimulation	Release of Cytochrome c from mitochondria
+Activated BAX,BAK oligomers	stimulation	Release of SMAC (DIABLO) from mitochondria
+Activation of BAD by calcineurin	production	14-3-3 dimer
+Activation of BAD by calcineurin	production	BAD
+Activation of BAD by calcineurin	production	Pi
+Apoptosome	catalysis	Cleavage of Procaspase-3 by the apoptosome
+Apoptosome	catalysis	Cleavage of Procaspase-7 by the apoptosome
+Apoptosome	consumption	UACA binds apoptosome
+Apoptosome	consumption	XIAP binds CASP9
+BAD	consumption	AKT phosphorylates BAD
+BAD	consumption	BAD displaces tBID from BCL-2 sequestration
+BAD	consumption	Translocation of activated BAD protein to mitochondria
+BAD displaces tBID from BCL-2 sequestration	production	BAD:BCL-2
+BAD displaces tBID from BCL-2 sequestration	production	MYS-BID(62-195)
+BAK1	consumption	tBID binds to inactive BAK protein
+BAK1 activated	consumption	Oligomerization  of BAK at the mitochondrial membrane
+BAX	consumption	Oligomerization of BAX at the mitochondrial membrane
+BAX	consumption	tBID binds to inactive BAX protein
+BAX activated	consumption	Translocation of activated BAX to the mitochondria
+BBC3	consumption	Translocation of BBC3 (PUMA) protein to mitochondria
+BBC3 gene	consumption	E2F1 binds BBC3 (PUMA) promoter
+BBC3 gene	consumption	TP53 binds the BBC3 (PUMA) promoter
+BBC3 gene	consumption	TP53 stimulates BBC3 (PUMA) expression
+BBC3 gene	consumption	Transactivation of BBC3 (PUMA) by E2F1
+BCL2	consumption	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2
+BCL2	consumption	Sequestration of tBID by BCL-2
+BCL2 gene, BCL2L1 gene	consumption	Expression of BCL2, BCL2L1
+BCL2L1	consumption	BH3 only proteins associate with and inactivate anti-apoptotic BCL-XL
+BH3 only proteins associate with and inactivate anti-apoptotic BCL-XL	production	Bcl-XL:BH3-only protein complex
+BH3-only proteins associate with and inactivate anti-apoptotic BCL-2	production	Bcl2:BH3-only protein complex
+BID(1-195)	consumption	Caspase-8 activates BID by cleavage
+BID(1-195)	consumption	Granzyme-B activates BID by cleavage
+BID(62-195)	consumption	Myristoylation of tBID by NMT1
+BID(62-195)	consumption	tBID binds to inactive BAX protein
+BIM sequestered to dynein (DLC1)	consumption	Phosphorylation of BIM by JNK
+BMF sequestered to dynein (DLC2)	consumption	Phosphorylation of DLC2 by MAPK8
+Bcl-2 interacting BH-3 only proteins	consumption	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2
+Bcl-XL interacting BH3-only proteins	consumption	BH3 only proteins associate with and inactivate anti-apoptotic BCL-XL
+C1QBP homotrimer	consumption	p14ARF binds C1QBP
+C1QBP promotes translocation of p14ARF to the mitochondrial matrix	production	p14ARF:C1QBP
+CARD8	consumption	CARD8 binds CASP9(1-416)
+CARD8	inhibition	CYCS:APAF1 binds procaspase-9
+CARD8 binds CASP9(1-416)	production	CASP9:CARD
+CASP3(1-277) dimer	consumption	Cleavage of Procaspase-3 by the apoptosome
+CASP7(2-303) dimer	consumption	Cleavage of Procaspase-7 by the apoptosome
+CASP9 is phosphorylated at T125	production	ADP
+CASP9 is phosphorylated at T125	production	APAF1:ATP:CYCS heptamer:p-T125-CASP9
+CASP9(1-416)	consumption	CARD8 binds CASP9(1-416)
+CASP9(1-416)	consumption	CYCS:APAF1 binds procaspase-9
+CYCS	consumption	CYCS binds to APAF1
+CYCS	consumption	Release of Cytochrome c from mitochondria
+CYCS binds to APAF1	production	ADP
+CYCS binds to APAF1	production	APAF1:ATP:CYCS
+CYCS:APAF1 binds procaspase-9	production	APAF1:ATP:CYCS heptamer:CASP9
+Calcineurin B complex	catalysis	Activation of BAD by calcineurin
+Caspase-3	consumption	XIAP binds CASP3
+Caspase-7	consumption	XIAP binds CASP7
+Caspase-8 activates BID by cleavage	production	BID(62-195)
+Cleavage of Procaspase-3 by the apoptosome	production	ADP
+Cleavage of Procaspase-3 by the apoptosome	production	Caspase-3
+Cleavage of Procaspase-7 by the apoptosome	production	ADP
+Cleavage of Procaspase-7 by the apoptosome	production	Caspase-7
+Cleavage of Procaspase‑9 to caspase‑9	production	ADP
+Cleavage of Procaspase‑9 to caspase‑9	production	Apoptosome
+DIABLO	consumption	Release of SMAC (DIABLO) from mitochondria
+DIABLO	consumption	SMAC (DIABLO) forms dimer
+DIABLO dimer	consumption	SMAC (DIABLO) binds XIAP
+DIABLO dimer	consumption	SMAC binds XIAP within apoptosome
+DIABLO dimer	consumption	SMAC binds XIAP:Caspase-3
+DIABLO dimer	consumption	SMAC binds XIAP:Caspase-7
+DIABLO dimer	inhibition	XIAP binds CASP7
+DIABLO dimer	inhibition	XIAP binds CASP9
+DIABLO:XIAP:Caspase-3	consumption	Dissociation of Caspase-3 from DIABLO:XIAP:Caspase-3
+DIABLO:XIAP:Caspase-3	inhibition	XIAP binds CASP3
+DIABLO:XIAP:Caspase-7	consumption	Dissociation of Caspase-7 from DIABLO:XIAP:Caspase-7
+Dissociation of Caspase-3 from DIABLO:XIAP:Caspase-3	production	Caspase-3
+Dissociation of Caspase-3 from DIABLO:XIAP:Caspase-3	production	DIABLO dimer:XIAP
+Dissociation of Caspase-7 from DIABLO:XIAP:Caspase-7	production	Caspase-7
+Dissociation of Caspase-7 from DIABLO:XIAP:Caspase-7	production	DIABLO dimer:XIAP
+Dissociation of DIABLO:XIAP from the apoptosome complex	production	Apoptosome
+Dissociation of DIABLO:XIAP from the apoptosome complex	production	DIABLO dimer:XIAP
+E2F1 binds BBC3 (PUMA) promoter	production	E2F1:TFDP1:BBC3 Gene
+E2F1 binds PMAIP1 (NOXA) promoter	production	E2F1:TFDP1:PMAIP1 Gene
+E2F1:TFDP1,TFDP2	consumption	E2F1 binds BBC3 (PUMA) promoter
+E2F1:TFDP1,TFDP2	consumption	E2F1 binds PMAIP1 (NOXA) promoter
+E2F1:TFDP1:BBC3 Gene	stimulation	Transactivation of BBC3 (PUMA) by E2F1
+E2F1:TFDP1:PMAIP1 Gene	stimulation	Transactivation of PMAIP1 (NOXA) by E2F1
+Expression of BCL2, BCL2L1	production	Bcl-2/Bcl-X(L)
+GZMB	catalysis	Granzyme-B activates BID by cleavage
+Granzyme-B activates BID by cleavage	production	BID(62-195)
+H2O	consumption	Activation of BAD by calcineurin
+MAPK8	catalysis	Phosphorylation of BIM by JNK
+MAPK8	catalysis	Phosphorylation of DLC2 by MAPK8
+MYS-BID(62-195)	consumption	Sequestration of tBID by BCL-2
+MYS-BID(62-195)	consumption	Translocation of tBID to mitochondria
+MYS-BID(62-195)	consumption	tBID binds to inactive BAK protein
+Myristoylation of tBID by NMT1	production	MYS-BID(62-195)
+NMT 1	catalysis	Myristoylation of tBID by NMT1
+Oligomerization  of BAK at the mitochondrial membrane	production	Active oligomeric BAK
+Oligomerization of BAX at the mitochondrial membrane	production	Activated BAX
+PMAIP1	consumption	Translocation of PMAIP1 (NOXA) to mitochondria
+PMAIP1 Gene	consumption	E2F1 binds PMAIP1 (NOXA) promoter
+PMAIP1 Gene	consumption	TP53 binds the PMAIP1 (NOXA) promoter
+PMAIP1 Gene	consumption	TP53 stimulates PMAIP1 (NOXA) expression
+PMAIP1 Gene	consumption	Transactivation of PMAIP1 (NOXA) by E2F1
+Phosphorylation of BIM by JNK	production	ADP
+Phosphorylation of BIM by JNK	production	Dynein (DLC1) on microtubules
+Phosphorylation of BIM by JNK	production	p-BCL2L11
+Phosphorylation of DLC2 by MAPK8	production	ADP
+Phosphorylation of DLC2 by MAPK8	production	Dynein (DLC2) on microtubules
+Phosphorylation of DLC2 by MAPK8	production	p-BMF(1-89)
+Procaspase 9 forms dimer	production	APAF1:CYCS:ATP:CASP9(1-416)dimer
+Release of Cytochrome c from mitochondria	production	CYCS
+Release of SEPT4 from mitochondria	production	SEPT4
+Release of SMAC (DIABLO) from mitochondria	production	DIABLO
+SEPT4	consumption	Release of SEPT4 from mitochondria
+SEPT4 binds XIAP	production	SEPT4 dimer:XIAP
+SEPT4 dimer	consumption	SEPT4 binds XIAP
+SMAC (DIABLO) binds XIAP	production	DIABLO dimer:XIAP
+SMAC (DIABLO) forms dimer	production	DIABLO dimer
+SMAC binds XIAP within apoptosome	production	APAF1:CYCS:CASP9:XIAP:DIABLO
+SMAC binds XIAP:Caspase-3	production	DIABLO:XIAP:Caspase-3
+SMAC binds XIAP:Caspase-7	production	DIABLO:XIAP:Caspase-7
+Sequestration of BAD protein by 14-3-3	production	14-3-3 proteins:p-S99-BAD complex
+Sequestration of tBID by BCL-2	production	tBID:BCL-2
+TP53 binds the BBC3 (PUMA) promoter	production	(p-S15,S20-TP53,TP63,TP73):(PPP1R13B,TP53BP2):BBC3 Gene
+TP53 binds the PMAIP1 (NOXA) promoter	production	p-S15,S20-TP53 Tetramer:PMAIP1 Gene
+TP53 stimulates BBC3 (PUMA) expression	production	BBC3
+TP53 stimulates PMAIP1 (NOXA) expression	production	PMAIP1
+Transactivation of BBC3 (PUMA) by E2F1	production	BBC3
+Transactivation of PMAIP1 (NOXA) by E2F1	production	PMAIP1
+Translocation of BBC3 (PUMA) protein to mitochondria	production	BBC3
+Translocation of BIM to mitochondria	production	p-BCL2L11
+Translocation of BMF to mitochondria	production	p-BMF
+Translocation of PMAIP1 (NOXA) to mitochondria	production	PMAIP1
+Translocation of activated BAD protein to mitochondria	production	BAD
+Translocation of activated BAX to the mitochondria	production	BAX
+Translocation of tBID to mitochondria	production	MYS-BID(62-195)
+UACA	consumption	UACA binds apoptosome
+UACA binds apoptosome	production	UACA:apoptosome
+XIAP	consumption	SEPT4 binds XIAP
+XIAP	consumption	SMAC (DIABLO) binds XIAP
+XIAP	consumption	XIAP binds CASP3
+XIAP	consumption	XIAP binds CASP7
+XIAP	consumption	XIAP binds CASP9
+XIAP	inhibition	Cleavage of Procaspase-3 by the apoptosome
+XIAP	inhibition	Cleavage of Procaspase-7 by the apoptosome
+XIAP binds CASP3	production	XIAP:Caspase-3
+XIAP binds CASP7	production	XIAP:Caspase-7
+XIAP binds CASP9	production	XIAP:apoptosome
+XIAP:Caspase-3	consumption	SMAC binds XIAP:Caspase-3
+XIAP:Caspase-7	consumption	SMAC binds XIAP:Caspase-7
+XIAP:apoptosome	consumption	SMAC binds XIAP within apoptosome
+active caspase-8	catalysis	Caspase-8 activates BID by cleavage
+p-BCL2L11	consumption	Translocation of BIM to mitochondria
+p-BMF(1-89)	consumption	Translocation of BMF to mitochondria
+p-S15,S20-TP53 Tetramer	consumption	TP53 binds the PMAIP1 (NOXA) promoter
+p-S15,S20-TP53 Tetramer:PMAIP1 Gene	stimulation	TP53 stimulates PMAIP1 (NOXA) expression
+p-S99-BAD	consumption	Sequestration of BAD protein by 14-3-3
+p-T,Y MAPK dimers	catalysis	CASP9 is phosphorylated at T125
+p-T,p-S-AKT	catalysis	AKT phosphorylates BAD
+p-Y705-STAT3 dimer	stimulation	Expression of BCL2, BCL2L1
+p14ARF	consumption	p14ARF binds C1QBP
+p14ARF binds C1QBP	production	p14ARF:C1QBP
+p14ARF:C1QBP	consumption	C1QBP promotes translocation of p14ARF to the mitochondrial matrix
+tBID activates BAK protein	production	BAK1 activated
+tBID activates BAK protein	production	MYS-BID(62-195)
+tBID activates BAX protein	production	BAX activated
+tBID activates BAX protein	production	BID(62-195)
+tBID binds to inactive BAK protein	production	tBID bound to inactive BAK
+tBID binds to inactive BAX protein	production	tBID bound to inactive BAX
+tBID bound to inactive BAK	consumption	tBID activates BAK protein
+tBID bound to inactive BAX	consumption	tBID activates BAX protein
+tBID:BCL-2	consumption	BAD displaces tBID from BCL-2 sequestration

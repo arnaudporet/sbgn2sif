@@ -1,0 +1,167 @@
+"Activator" RAF:YWHAB dimer binds RAS:GTP	production	p21 RAS:GTP:'activator' RAF:YWHAB dimer
+'activator' RAF:YWHAB dimer	consumption	"Activator" RAF:YWHAB dimer binds RAS:GTP
+26S proteasome	catalysis	NF1 is degraded by the proteasome
+ATP	consumption	Activated MAPK phosphorylates RAF1
+ATP	consumption	Activated MAPKs phosphorylate BRAF
+ATP	consumption	Activated MAPKs phosphorylate MAP2K1
+ATP	consumption	MAP2Ks and MAPKs are phosphorylated at the endosome membrane
+ATP	consumption	MAP2Ks phosphorylate MAPK at the Golgi membrane
+ATP	consumption	MAP2Ks phosphorylate MAPKs
+ATP	consumption	MARK3 phosphorylates KSR1
+ATP	consumption	Phosphorylation of RAF
+ATP	consumption	RAF phosphorylates MAP2K dimer
+Activated MAPK phosphorylates RAF1	production	ADP
+Activated MAPK phosphorylates RAF1	production	hyperphosphorylated RAF1
+Activated MAPKs phosphorylate BRAF	production	ADP
+Activated MAPKs phosphorylate BRAF	production	hyperphosphorylated BRAF
+Activated MAPKs phosphorylate MAP2K1	production	ADP
+Activated MAPKs phosphorylate MAP2K1	production	p-2S,T MAP2K1:p-2S MAPK2K2 heterodimer
+BRAP	consumption	BRAP binds KSR1:MARK3
+BRAP	consumption	BRAP binds RAS:GTP
+BRAP autoubiquitinates	production	p21 RAS:GTP:ub-BRAP
+BRAP binds KSR1:MARK3	production	BRAP:KSR1:MARK3
+BRAP binds RAS:GTP	production	p21 RAS:GTP:BRAP
+BRAP:KSR1:MARK3	inhibition	RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers
+Cytosolic DUSPs dephosphorylate MAPKs	production	MAPK monomers and dimers
+Cytosolic DUSPs dephosphorylate MAPKs	production	Pi
+Dissociation of RAS:RAF complex	production	RAF/MAPK scaffolds
+Dissociation of RAS:RAF complex	production	p-2S MAP2K homo/heterodimers
+Dissociation of RAS:RAF complex	production	p-T,Y MAPKs
+Dissociation of RAS:RAF complex	production	p21RAS:GTP:activated RAF homo/heterodimers
+GTP	consumption	RAS GEFs promote RAS nucleotide exchange
+H2O	consumption	Cytosolic DUSPs dephosphorylate MAPKs
+H2O	consumption	Nuclear DUSPs dephosphorylate MAPKs
+H2O	consumption	PP2A dephosphorylates KSR1
+H2O	consumption	PP2A dephosphorylates RAF1
+H2O	consumption	PP2A dephosphorylates inactive RAFs
+H2O	consumption	PP5 dephosphorylates RAF1 S338
+IL17RD	consumption	IL17RD binds p-2S MAP2Ks and MAPKs
+IL17RD binds p-2S MAP2Ks and MAPKs	production	IL17RD:p-2S MAP2Ks:MAPKs
+IL17RD:p-2S MAP2Ks:MAPKs	catalysis	MAP2Ks phosphorylate MAPK at the Golgi membrane
+IL17RD:p-2S MAP2Ks:MAPKs	consumption	MAP2Ks phosphorylate MAPK at the Golgi membrane
+Inactive RAFs bind YWHAB	production	inactive RAFs:YWHAB dimer
+KBTBD7:CUL3:RBX1	catalysis	KBTBD7:CUL3:RBX1 ubiquitinates NF1
+KBTBD7:CUL3:RBX1 ubiquitinates NF1	production	SPRED dimer:ub-NF1
+KSR1:MARK3	catalysis	MARK3 phosphorylates KSR1
+KSR1:MARK3	consumption	BRAP binds KSR1:MARK3
+KSR1:MARK3	consumption	MARK3 phosphorylates KSR1
+MAP2K homo/heterodimers	consumption	MAP2Ks and MAPKs bind to the activated RAF complex
+MAP2K homo/heterodimers	consumption	WDR83:LAMTOR2:LAMTOR3 binds MAPK components
+MAP2Ks and MAPKs are phosphorylated at the endosome membrane	production	ADP
+MAP2Ks and MAPKs are phosphorylated at the endosome membrane	production	WDR83:LAMTOR2:LAMTOR3:activated RAF:p-2S MAP2K:p-T,Y MAPK complex
+MAP2Ks and MAPKs bind to the activated RAF complex	production	activated RAF:scaffold:MAP2K:MAPK complex
+MAP2Ks phosphorylate MAPK at the Golgi membrane	production	ADP
+MAP2Ks phosphorylate MAPK at the Golgi membrane	production	IL17RD:p-2S MAP2Ks:p-T,Y MAPKs
+MAP2Ks phosphorylate MAPKs	production	ADP
+MAP2Ks phosphorylate MAPKs	production	activated RAF:scaffold:p-2S MAP2K:p-2T MAPK complex
+MAP3K11	stimulation	RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers
+MAPKs	consumption	IL17RD binds p-2S MAP2Ks and MAPKs
+MAPKs	consumption	MAP2Ks and MAPKs bind to the activated RAF complex
+MAPKs	consumption	WDR83:LAMTOR2:LAMTOR3 binds MAPK components
+MARK3 phosphorylates KSR1	production	ADP
+MARK3 phosphorylates KSR1	production	p-S311,S406 KSR1:MARK3
+NF1 is degraded by the proteasome	production	SPRED dimer
+NF1(2-2839)	consumption	SPRED dimer binds NF1
+Nuclear DUSPs dephosphorylate MAPKs	production	MAPK monomers and dimers
+Nuclear DUSPs dephosphorylate MAPKs	production	Pi
+PAQR3	consumption	PAQR3 binds inactive RAFs
+PAQR3 binds inactive RAFs	production	PAQR3:inactive RAFs
+PEA15	consumption	PEA15 binds MAPK monomers and dimers
+PEA15 binds MAPK monomers and dimers	production	p-T,Y MAPK monomers and dimers:PEA15
+PEBP1	consumption	PEBP1 binds activated RAF1
+PEBP1 binds activated RAF1	production	p21 RAS:GTP:activated RAF1 homo/heterodimer:PEBP1
+PHB	stimulation	"Activator" RAF:YWHAB dimer binds RAS:GTP
+PP2A	catalysis	PP2A dephosphorylates KSR1
+PP2A	catalysis	PP2A dephosphorylates RAF1
+PP2A	catalysis	PP2A dephosphorylates inactive RAFs
+PP2A dephosphorylates KSR1	production	Pi
+PP2A dephosphorylates KSR1	production	p-S311 KSR1:MARK3:YWHAB dimer
+PP2A dephosphorylates RAF1	production	Pi
+PP2A dephosphorylates RAF1	production	p21RAS:GTP:p-S621 RAF1 homo/heterodimer
+PP2A dephosphorylates inactive RAFs	production	Pi
+PP2A dephosphorylates inactive RAFs	production	dephosphorylated inactive RAFS:YWHAB dimer
+PP5 dephosphorylates RAF1 S338	production	Pi
+PP5 dephosphorylates RAF1 S338	production	p21RAS:GTP:dephosphorylated RAF1 homo/heterodimer
+PPP5C	catalysis	PP5 dephosphorylates RAF1 S338
+Phosphorylated MAPKs translocate into the nucleus	production	p-T,Y MAPK monomers and dimers
+Phosphorylation of RAF	production	ADP
+Phosphorylation of RAF	production	p21 RAS:GTP:activated RAF homo/heterodimer complexes
+RAF activating kinases	catalysis	Phosphorylation of RAF
+RAF phosphorylates MAP2K dimer	production	ADP
+RAF phosphorylates MAP2K dimer	production	activated RAF:scaffold:p-2S MAP2K:MAPK complex
+RAF/MAPK scaffolds	consumption	MAP2Ks and MAPKs bind to the activated RAF complex
+RAS GAPs	consumption	RAS GAPs bind RAS:GTP
+RAS GAPs bind RAS:GTP	production	p21 RAS:GTP:RAS GAPs
+RAS GAPs stimulate RAS GTPase activity	production	RAS GAPs
+RAS GAPs stimulate RAS GTPase activity	production	p21 RAS:GDP
+RAS GEFs	catalysis	RAS GEFs promote RAS nucleotide exchange
+RAS GEFs promote RAS nucleotide exchange	production	GDP
+RAS GEFs promote RAS nucleotide exchange	production	p21 RAS:GTP
+RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers	production	p21 RAS:GTP:homo/heterodimerized RAF complex
+SPRED dimer	consumption	SPRED dimer binds NF1
+SPRED dimer binds NF1	production	SPRED dimer:NF1
+SPRED dimer:NF1	consumption	KBTBD7:CUL3:RBX1 ubiquitinates NF1
+SPRED dimer:ub-NF1	consumption	NF1 is degraded by the proteasome
+Ub	consumption	BRAP autoubiquitinates
+Ub	consumption	KBTBD7:CUL3:RBX1 ubiquitinates NF1
+WDR83:LAMTOR2:LAMTOR3	consumption	WDR83:LAMTOR2:LAMTOR3 binds MAPK components
+WDR83:LAMTOR2:LAMTOR3 binds MAPK components	production	WDR83:LAMTOR2:LAMTOR3:activated RAF:MAP2K:MAPK complex
+WDR83:LAMTOR2:LAMTOR3:activated RAF:MAP2K:MAPK complex	consumption	MAP2Ks and MAPKs are phosphorylated at the endosome membrane
+YWHAB dimer	consumption	Inactive RAFs bind YWHAB
+YWHAB dimer	consumption	p-S311,S406 KSR1:MARK3 binds YWHAB dimer
+YWHAB dimer dissociates from KSR1:MARK3	production	YWHAB dimer
+YWHAB dimer dissociates from KSR1:MARK3	production	p-S311 KSR1:MARK3
+YWHAB dimer dissociates from dephosphorylated RAF	production	YWHAB dimer
+YWHAB dimer dissociates from dephosphorylated RAF	production	dephosphorylated inactive RAFs
+activated RAF homo/heterodimer	consumption	WDR83:LAMTOR2:LAMTOR3 binds MAPK components
+activated RAF:scaffold:MAP2K:MAPK complex	catalysis	RAF phosphorylates MAP2K dimer
+activated RAF:scaffold:MAP2K:MAPK complex	consumption	RAF phosphorylates MAP2K dimer
+activated RAF:scaffold:MAP2K:MAPK complex:dual mechanism MAP2K inhibitors	inhibition	MAP2Ks phosphorylate MAPKs
+activated RAF:scaffold:MAP2K:MAPK complex:dual mechanism MAP2K inhibitors	inhibition	RAF phosphorylates MAP2K dimer
+activated RAF:scaffold:p-2S  MAP2K:MAPK:single mechanism MAP2K inhibitors	inhibition	MAP2Ks phosphorylate MAPKs
+activated RAF:scaffold:p-2S MAP2K:MAPK complex	catalysis	MAP2Ks phosphorylate MAPKs
+activated RAF:scaffold:p-2S MAP2K:MAPK complex	consumption	MAP2Ks phosphorylate MAPKs
+activated RAF:scaffold:p-2S MAP2K:MAPK:dual mechanism MAPK inhibitors	inhibition	MAP2Ks phosphorylate MAPKs
+activated RAF:scaffold:p-2S MAP2K:p-2T MAPK complex	consumption	Dissociation of RAS:RAF complex
+cytosolic MAPK DUSPs	catalysis	Cytosolic DUSPs dephosphorylate MAPKs
+dephosphorylated "receiver" RAF/KSR1	consumption	RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers
+dephosphorylated inactive RAFS:YWHAB dimer	consumption	YWHAB dimer dissociates from dephosphorylated RAF
+hyperphosphorylated RAF1	stimulation	PP2A dephosphorylates RAF1
+inactive RAFs	consumption	Inactive RAFs bind YWHAB
+inactive RAFs	consumption	PAQR3 binds inactive RAFs
+inactive RAFs:YWHAB dimer	consumption	PP2A dephosphorylates inactive RAFs
+nuclear MAPK DUSPs	catalysis	Nuclear DUSPs dephosphorylate MAPKs
+p-2S MAP2K homo/heterodimers	consumption	IL17RD binds p-2S MAP2Ks and MAPKs
+p-2S MAP2K1:p-2S MAPK2K2 heterodimer	consumption	Activated MAPKs phosphorylate MAP2K1
+p-S311 KSR1:MARK3:YWHAB dimer	consumption	YWHAB dimer dissociates from KSR1:MARK3
+p-S311,S406 KSR1:MARK3	consumption	p-S311,S406 KSR1:MARK3 binds YWHAB dimer
+p-S311,S406 KSR1:MARK3 binds YWHAB dimer	production	p-S311,S406 KSR1:MARK3:YWHAB dimer
+p-S311,S406 KSR1:MARK3:YWHAB dimer	consumption	PP2A dephosphorylates KSR1
+p-S338,Y341,T491,S494,S621 RAF1	consumption	Activated MAPK phosphorylates RAF1
+p-S445,T599,S602,S729 BRAF	consumption	Activated MAPKs phosphorylate BRAF
+p-T,Y MAPK monomers and dimers	catalysis	Activated MAPK phosphorylates RAF1
+p-T,Y MAPK monomers and dimers	catalysis	Activated MAPKs phosphorylate BRAF
+p-T,Y MAPK monomers and dimers	catalysis	Activated MAPKs phosphorylate MAP2K1
+p-T,Y MAPK monomers and dimers	consumption	Cytosolic DUSPs dephosphorylate MAPKs
+p-T,Y MAPK monomers and dimers	consumption	Nuclear DUSPs dephosphorylate MAPKs
+p-T,Y MAPK monomers and dimers	consumption	PEA15 binds MAPK monomers and dimers
+p-T,Y MAPK monomers and dimers	consumption	Phosphorylated MAPKs translocate into the nucleus
+p-T,Y MAPK monomers and dimers:PEA15	inhibition	Phosphorylated MAPKs translocate into the nucleus
+p-T,Y MAPKs	consumption	p-T,Y MAPKs dimerize
+p-T,Y MAPKs dimerize	production	p-T,Y MAPK dimers
+p21 RAS:GDP	consumption	RAS GEFs promote RAS nucleotide exchange
+p21 RAS:GTP	consumption	"Activator" RAF:YWHAB dimer binds RAS:GTP
+p21 RAS:GTP	consumption	BRAP binds RAS:GTP
+p21 RAS:GTP	consumption	RAS GAPs bind RAS:GTP
+p21 RAS:GTP:'activator' RAF:YWHAB dimer	consumption	RAS:GTP:'activator' RAF homo/heterodimerizes with other RAF monomers
+p21 RAS:GTP:BRAP	catalysis	BRAP autoubiquitinates
+p21 RAS:GTP:BRAP	consumption	BRAP autoubiquitinates
+p21 RAS:GTP:RAS GAPs	catalysis	RAS GAPs stimulate RAS GTPase activity
+p21 RAS:GTP:RAS GAPs	consumption	RAS GAPs stimulate RAS GTPase activity
+p21 RAS:GTP:activated RAF homo/heterodimer complexes	consumption	MAP2Ks and MAPKs bind to the activated RAF complex
+p21 RAS:GTP:activated RAF1 homo/heterodimer:PEBP1	inhibition	MAP2Ks and MAPKs bind to the activated RAF complex
+p21 RAS:GTP:homo/heterodimerized RAF complex	consumption	Phosphorylation of RAF
+p21RAS:GTP:activated RAF1 homo/heterodimer	consumption	PEBP1 binds activated RAF1
+p21RAS:GTP:activated RAF1 homo/heterodimer	consumption	PP5 dephosphorylates RAF1 S338
+p21RAS:GTP:dephosphorylated RAF1 homo/heterodimer	consumption	PP2A dephosphorylates RAF1
+p21RAS:GTP:homo/heterodimerized RAF complex:RAF dimer inhibitors	inhibition	RAF phosphorylates MAP2K dimer

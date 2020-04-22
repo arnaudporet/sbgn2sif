@@ -1,0 +1,147 @@
+AKT	consumption	PIP3 recruits AKT to the membrane
+AKT binds PDPK1	production	p-S-AKT:PDPK1:PIP3
+AKT can phosphorylate NR4A1 (NUR77)	production	ADP
+AKT can phosphorylate NR4A1 (NUR77)	production	p-S351-NR4A1
+AKT can phosphorylate RSK	production	ADP
+AKT can phosphorylate RSK	production	p-S15,S356-RPS6KB2
+AKT phosphorylates AKT1S1 (PRAS40)	production	ADP
+AKT phosphorylates AKT1S1 (PRAS40)	production	p-S183,T246-AKT1S1
+AKT phosphorylates BAD	production	ADP
+AKT phosphorylates BAD	production	p-S99-BAD
+AKT phosphorylates CREB1	production	ADP
+AKT phosphorylates CREB1	production	p-S133-CREB1
+AKT phosphorylates FOXO transcription factors	production	ADP
+AKT phosphorylates FOXO transcription factors	production	p-T24,S256,S319-FOXO1,p-T32,S253,S315-FOXO3,p-T32,S197,S262-FOXO4,(p-T26,S184-FOXO6)
+AKT phosphorylates GSK3	production	ADP
+AKT phosphorylates GSK3	production	p-S9/21-GSK3
+AKT phosphorylates IKKalpha	production	ADP
+AKT phosphorylates IKKalpha	production	p-T23-CHUK
+AKT phosphorylates MDM2	production	ADP
+AKT phosphorylates MDM2	production	p-S166,S188-MDM2
+AKT phosphorylates MKRN1	production	ADP
+AKT phosphorylates MKRN1	production	p-S109-MKRN1
+AKT phosphorylates TSC2, inhibiting it	production	ADP
+AKT phosphorylates TSC2, inhibiting it	production	p-S939,T1462-TSC2
+AKT phosphorylates caspase-9	production	ADP
+AKT phosphorylates caspase-9	production	p-S196-CASP9(1-416)
+AKT phosphorylates p21Cip1 and p27Kip1	production	ADP
+AKT phosphorylates p21Cip1 and p27Kip1	production	p-T-CDKN1A/B
+AKT translocates to the nucleus	production	p-T,p-S-AKT
+AKT1 dephosphorylation by PP2A-B56-beta,gamma	production	AKT1
+AKT1 dephosphorylation by PP2A-B56-beta,gamma	production	Pi
+AKT1S1	consumption	AKT phosphorylates AKT1S1 (PRAS40)
+AKT:PIP3	consumption	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation
+AKT:PIP3	consumption	TORC2 (mTOR) phosphorylates AKT at S473
+AKT:PIP3:THEM4/TRIB3	inhibition	TORC2 (mTOR) phosphorylates AKT at S473
+ATP	consumption	AKT can phosphorylate NR4A1 (NUR77)
+ATP	consumption	AKT can phosphorylate RSK
+ATP	consumption	AKT phosphorylates AKT1S1 (PRAS40)
+ATP	consumption	AKT phosphorylates BAD
+ATP	consumption	AKT phosphorylates CREB1
+ATP	consumption	AKT phosphorylates FOXO transcription factors
+ATP	consumption	AKT phosphorylates GSK3
+ATP	consumption	AKT phosphorylates IKKalpha
+ATP	consumption	AKT phosphorylates MDM2
+ATP	consumption	AKT phosphorylates MKRN1
+ATP	consumption	AKT phosphorylates TSC2, inhibiting it
+ATP	consumption	AKT phosphorylates caspase-9
+ATP	consumption	AKT phosphorylates p21Cip1 and p27Kip1
+ATP	consumption	Inhibition of PP2A activity by phosphorylation of the catalytic subunit at tyrosine Y307
+ATP	consumption	MAPKs phosphorylate PP2A
+ATP	consumption	PDPK1 phosphorylates AKT at T308
+ATP	consumption	PI3K phosphorylates PIP2 to PIP3
+ATP	consumption	PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane
+ATP	consumption	PI5P is phosphorylated to PI(4,5)P2 by PIP4K2 dimers at the plasma membrane
+ATP	consumption	TORC2 (mTOR) phosphorylates AKT at S473
+Activated SRC,LCK,EGFR,INSR	catalysis	Inhibition of PP2A activity by phosphorylation of the catalytic subunit at tyrosine Y307
+Activator:PI3K	catalysis	PI3K phosphorylates PIP2 to PIP3
+BAD	consumption	AKT phosphorylates BAD
+CASP9(1-416)	consumption	AKT phosphorylates caspase-9
+CDKN1A,CDKN1B	consumption	AKT phosphorylates p21Cip1 and p27Kip1
+CHUK	consumption	AKT phosphorylates IKKalpha
+CREB1	consumption	AKT phosphorylates CREB1
+FOXO1,FOXO3,FOXO4,(FOXO6)	consumption	AKT phosphorylates FOXO transcription factors
+GSK3	consumption	AKT phosphorylates GSK3
+H2O	consumption	AKT1 dephosphorylation by PP2A-B56-beta,gamma
+H2O	consumption	PHLPP dephosphorylates S473 in AKT
+H2O	consumption	PTEN dephosphorylates PIP3
+IER3	consumption	IER3 recruits MAPKs to PP2A-B56-beta,gamma
+IER3 recruits MAPKs to PP2A-B56-beta,gamma	production	PP2A-B56-beta,gamma:IER3:p-T,Y-MAPK dimers
+IL33:IL1RL1:IL1RAP-1:MYD88 dimer:IRAK1,IRAK4,TRAF6	stimulation	PI3K phosphorylates PIP2 to PIP3
+Inhibition of PP2A activity by phosphorylation of the catalytic subunit at tyrosine Y307	production	ADP
+Inhibition of PP2A activity by phosphorylation of the catalytic subunit at tyrosine Y307	production	p-Y307-PP2A
+MAPKs phosphorylate PP2A	production	ADP
+MAPKs phosphorylate PP2A	production	IER3
+MAPKs phosphorylate PP2A	production	PP2A-A:PP2A-C
+MAPKs phosphorylate PP2A	production	p-S368-PPP2R5B,p-S337-PPP2R5C
+MAPKs phosphorylate PP2A	production	p-T,Y MAPK dimers
+MDM2	consumption	AKT phosphorylates MDM2
+MKRN1	consumption	AKT phosphorylates MKRN1
+NR4A1	consumption	AKT can phosphorylate NR4A1 (NUR77)
+PDPK1	consumption	PDPK1 binds PIP2
+PDPK1	consumption	PIP3 recruits PDPK1 to the membrane
+PDPK1 binds PIP2	production	PDPK1:PIP2
+PDPK1 phosphorylates AKT at T308	production	ADP
+PDPK1 phosphorylates AKT at T308	production	PDPK1:PIP3
+PDPK1 phosphorylates AKT at T308	production	p-T,p-S-AKT
+PDPK1:PIP3	consumption	AKT binds PDPK1
+PHLPP (Mn2+ cofactor)	catalysis	PHLPP dephosphorylates S473 in AKT
+PHLPP dephosphorylates S473 in AKT	production	Pi
+PHLPP dephosphorylates S473 in AKT	production	p-T-AKT
+PI(3,4,5)P3	consumption	PIP3 recruits AKT to the membrane
+PI(3,4,5)P3	consumption	PIP3 recruits PDPK1 to the membrane
+PI(3,4,5)P3	consumption	PTEN dephosphorylates PIP3
+PI(4,5)P2	consumption	PDPK1 binds PIP2
+PI(4,5)P2	consumption	PI3K phosphorylates PIP2 to PIP3
+PI3K alpha	consumption	RAC1,RAC2,RHOG activate PI3K
+PI3K phosphorylates PIP2 to PIP3	production	ADP
+PI3K phosphorylates PIP2 to PIP3	production	PI(3,4,5)P3
+PI4P	consumption	PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane
+PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane	production	ADP
+PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane	production	PI(4,5)P2
+PI5P	consumption	PI5P is phosphorylated to PI(4,5)P2 by PIP4K2 dimers at the plasma membrane
+PI5P	inhibition	AKT1 dephosphorylation by PP2A-B56-beta,gamma
+PI5P	stimulation	Inhibition of PP2A activity by phosphorylation of the catalytic subunit at tyrosine Y307
+PI5P is phosphorylated to PI(4,5)P2 by PIP4K2 dimers at the plasma membrane	production	ADP
+PI5P is phosphorylated to PI(4,5)P2 by PIP4K2 dimers at the plasma membrane	production	PI(4,5)P2
+PIP3 recruits AKT to the membrane	production	AKT:PIP3
+PIP3 recruits PDPK1 to the membrane	production	PDPK1:PIP3
+PIP4K2 dimers	catalysis	PI5P is phosphorylated to PI(4,5)P2 by PIP4K2 dimers at the plasma membrane
+PIP5K1A-C	catalysis	PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane
+PP2A	consumption	Inhibition of PP2A activity by phosphorylation of the catalytic subunit at tyrosine Y307
+PP2A-B56-beta,gamma	catalysis	AKT1 dephosphorylation by PP2A-B56-beta,gamma
+PP2A-B56-beta,gamma	consumption	IER3 recruits MAPKs to PP2A-B56-beta,gamma
+PP2A-B56-beta,gamma:IER3:p-T,Y-MAPK dimers	catalysis	MAPKs phosphorylate PP2A
+PP2A-B56-beta,gamma:IER3:p-T,Y-MAPK dimers	consumption	MAPKs phosphorylate PP2A
+PTEN	catalysis	PTEN dephosphorylates PIP3
+PTEN dephosphorylates PIP3	production	PI(4,5)P2
+PTEN dephosphorylates PIP3	production	Pi
+RAC1,RAC2,RHOG activate PI3K	production	RAC1:GTP,RAC2:GTP,RHOG:GTP:PI3K alpha
+RAC1:GTP,RAC2:GTP,RHOG:GTP	consumption	RAC1,RAC2,RHOG activate PI3K
+RPS6KB2	consumption	AKT can phosphorylate RSK
+THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	production	AKT:PIP3:THEM4/TRIB3
+THEM4/TRIB3	consumption	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation
+TORC2 (mTOR) phosphorylates AKT at S473	production	ADP
+TORC2 (mTOR) phosphorylates AKT at S473	production	p-S-AKT:PIP3
+TORC2 complex	catalysis	TORC2 (mTOR) phosphorylates AKT at S473
+TSC2	consumption	AKT phosphorylates TSC2, inhibiting it
+p-S-AKT:PDPK1:PIP3	catalysis	PDPK1 phosphorylates AKT at T308
+p-S-AKT:PDPK1:PIP3	consumption	PDPK1 phosphorylates AKT at T308
+p-S-AKT:PIP3	consumption	AKT binds PDPK1
+p-T,Y MAPK dimers	consumption	IER3 recruits MAPKs to PP2A-B56-beta,gamma
+p-T,p-S-AKT	catalysis	AKT can phosphorylate NR4A1 (NUR77)
+p-T,p-S-AKT	catalysis	AKT can phosphorylate RSK
+p-T,p-S-AKT	catalysis	AKT phosphorylates AKT1S1 (PRAS40)
+p-T,p-S-AKT	catalysis	AKT phosphorylates BAD
+p-T,p-S-AKT	catalysis	AKT phosphorylates CREB1
+p-T,p-S-AKT	catalysis	AKT phosphorylates FOXO transcription factors
+p-T,p-S-AKT	catalysis	AKT phosphorylates GSK3
+p-T,p-S-AKT	catalysis	AKT phosphorylates IKKalpha
+p-T,p-S-AKT	catalysis	AKT phosphorylates MDM2
+p-T,p-S-AKT	catalysis	AKT phosphorylates MKRN1
+p-T,p-S-AKT	catalysis	AKT phosphorylates TSC2, inhibiting it
+p-T,p-S-AKT	catalysis	AKT phosphorylates caspase-9
+p-T,p-S-AKT	catalysis	AKT phosphorylates p21Cip1 and p27Kip1
+p-T,p-S-AKT	consumption	AKT translocates to the nucleus
+p-T,p-S-AKT	consumption	PHLPP dephosphorylates S473 in AKT
+p-T308,S473-AKT1	consumption	AKT1 dephosphorylation by PP2A-B56-beta,gamma
